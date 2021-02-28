@@ -1,5 +1,5 @@
 //dependencies
-const mysql = require("mysql");
+const mysql = require("mysql2");
 const inquirer = require("inquirer");
 const consoleTable = require("console.table")
 const chalk = require("chalk");
@@ -9,7 +9,7 @@ const connection = mysql.createConnection({
     host: "localhost",
     port: 3306,
     user: "root",
-    password: "94Lucien!@",
+    password: "password",
     database: "employee_DB"
 })
 
