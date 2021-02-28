@@ -2,7 +2,9 @@
 
 Hello, and welcome to my README! This is for my Week 12 Challenge, which was to create an Employee Tracking app using Node.js, MySQL and Inquirer.
 
-![finished html](https://github.com/dvicj/Employee-Tracker/blob/main/images/home%20screen.PNG)
+[Link to Demo Video](https://drive.google.com/file/d/1NySVZCfwThwg64IAbMGYlMVyQwkuU-Nn/view?usp=sharing)
+
+![finished html](https:Employee-Tracker//github.com/dvicj/Employee-Tracker/blob/main/images/home%20screen.PNG)
 
 
 It was my job to ensure my Employee Tracker app had the following features:
